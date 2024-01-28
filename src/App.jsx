@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import FlipCoin from "./FlipCoin";
+import FlipCoin from "./FlipCoin.js";
 import headsImage from "../src/heads.png";
 import tailsImage from "../src/tails.png";
 import "./index.css";
